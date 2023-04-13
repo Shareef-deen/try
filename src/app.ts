@@ -3,9 +3,9 @@ const nam = 'James';
 
 const person = { first: nam };
 
-console.log(person,nam);
+console.log(person, nam);
 
-console.log("trying things");
+console.log('trying things ');
 
 const sayHelloLinting = (fName: string) => {
 	console.log(`Hello linting, ${fName}`);
