@@ -16,6 +16,8 @@
 **/pb
 *.pb*
 
+.husky
+
 # Misc
 *~
 .DS_Store
