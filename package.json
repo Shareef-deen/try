@@ -34,7 +34,7 @@
   },
   "lint-staged": {
     "*.ts": [
-      "eslint --cache --cache-location node_modules/.cache/eslint ",
+      "eslint --cache --cache-location node_modules/.cache/eslint --fix",
       "prettier --write"
     ]
   }

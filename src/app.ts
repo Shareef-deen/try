@@ -3,9 +3,8 @@
 const nam = 'James';
 
 const person = { first: nam };
-// eslint-disable-next-line max-len
 const newn =
-    'djkfsjdfkjhsdkjfhkjahdjfsklajhlkjsdfhalkjfhlkajshdflkjahsdlkjfhlaksdjfklasdjlkjkjlkjlkjl';
+  'djkfsjdfkjhsdkjfhkjahdjfsklajhlkjsdfhalkjfhlkajshdflkjahsdlkjfhlaksdjfklasdjlkjkjlkjlkjl';
 console.log(newn);
 console.log(person, nam);
 
