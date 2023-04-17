@@ -5,6 +5,15 @@ const nam = 'James';
 const person = { first: nam };
 const newn =
   'djkfsjdfkjhsdkjfhkjahdjfsklajhlkjsdfhalkjfhlkajshdflkjahsdlkjfhlaksdjfklasdjlkjkjlkjlkjl';
+const sk = 3;
+if (
+  (sk === 3 && person.first && nam === 'James') ||
+  newn.startsWith('d', 2) ||
+  nam.startsWith('dsdasdasd')
+) {
+  console.log('test');
+}
+
 console.log(newn);
 console.log(person, nam);
 
