@@ -9,7 +9,7 @@ const newn =
 console.log(newn);
 console.log(person, nam);
 
-console.log('trying things ');
+console.log('trying things jlkjl');
 
 const sayHelloLinting = (fName: string) => {
   console.log(`Hello linting, ${fName}`);
